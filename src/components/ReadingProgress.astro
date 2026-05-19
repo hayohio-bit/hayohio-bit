@@ -1,0 +1,44 @@
+<div
+  id="reading-progress"
+  class="fixed top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 transform origin-left scale-x-0 transition-transform duration-100 z-50"
+  role="progressbar"
+  aria-label="Reading progress"
+  aria-valuenow="0"
+  aria-valuemin="0"
+  aria-valuemax="100"
+>
+</div>
+
+<script>
+  function updateReadingProgress() {
+    const progressBar = document.getElementById("reading-progress");
+    if (!progressBar) return;
+
+    const windowHeight = window.innerHeight;
+    const documentHeight = document.documentElement.scrollHeight;
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+    // Calculate progress
+    const scrollableHeight = documentHeight - windowHeight;
+    const progress = (scrollTop / scrollableHeight) * 100;
+
+    // Update progress bar
+    progressBar.style.transform = `scaleX(${progress / 100})`;
+    progressBar.setAttribute("aria-valuenow", Math.round(progress).toString());
+  }
+
+  // Update on scroll
+  window.addEventListener("scroll", updateReadingProgress);
+
+  // Initial update
+  updateReadingProgress();
+
+  // Update on resize (in case content height changes)
+  window.addEventListener("resize", updateReadingProgress);
+</script>
+
+<style>
+  #reading-progress {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+</style>
