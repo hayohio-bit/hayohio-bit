@@ -1,10 +1,15 @@
 name: Generate Snake Animation
 
 on:
+  push:
+    branches: [main]
   schedule:
     # 매일 오전 6시 (UTC) 자동 실행
     - cron: "0 21 * * *"
   workflow_dispatch:  # 수동 실행 가능
+
+permissions:
+  contents: write
 
 jobs:
   generate:
