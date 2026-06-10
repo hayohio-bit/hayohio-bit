@@ -24,7 +24,7 @@
 비즈니스 맥락을 읽고 실제 문제를 구조화해 해결하는 백엔드 개발자입니다.
 ```
 
-- 🏢 **전직**: BGF리테일 경영진단·Project개발팀 (7년) · 삼성화재 장기상품개발팀 (2년)
+- 🏢 **전직**: BGF리테일 Project개발팀·경영진단 (7년) · 삼성화재 장기상품개발팀 (2년)
 - 🎓 **DevOps 풀스택 부트캠프** 수료 (1,140시간, 2025.10 ~ 2026.04)
 - 🌱 현재 관심사: **Spring Boot 아키텍처**, **AWS 인프라**, **Spring AI 연동**
 - 📝 배운 것은 [블로그](https://ssunhy.com/)에 기록합니다
@@ -75,7 +75,8 @@
 | [📦 Daechul Spring Migration](https://github.com/hayohio-bit/daechul-spring-legacy) | JSP/Servlet Model 2 → Spring Legacy(MVC) 계층형 아키텍처로 직접 마이그레이션 \| 개인 | Java · Spring Framework 5.x · Spring MVC · MyBatis · JSP · MySQL | ✅ 배포완료 |
 | [💩 DayPoo](https://github.com/hayohio-bit) | 위치 기반 공공화장실 지도 + 배변 기록 AI 분석 서비스 \| 팀 프로젝트 | Java 21 · Spring Boot · JWT · OAuth2 · PostgreSQL+PostGIS · Redis · FastAPI · React 19 | ✅ 배포완료 |
 | [🐶 62댕냥](https://github.com/hayohio-bit/62dn) | 공공데이터 기반 유기동물 입양·임시보호 매칭 플랫폼 \| 팀 프로젝트 | Spring Boot · Spring Security · JWT · JPA · MySQL · React 18 · TypeScript | ✅ 배포완료 |
-| [🎨 Creative Archive](https://hayohio-bit.github.io/hayohio-portfolio/) | BGF 재직 시절 디자인 자산 아카이빙 · Redux 상태관리 학습 프로젝트 \| 개인 | React 18 · Redux Toolkit · Vite · GitHub Pages | ✅ 배포완료 |
+| [🎨 Creative Archive](https://hayohio-bit.github.io/hayohio-portfolio/) | 실무 기획·디자인 포트폴리오 · Redux 상태관리 학습 프로젝트 \| 개인 | React 18 · Redux Toolkit · Vite · GitHub Pages | ✅ 배포완료 |
+
 ---
 
 ## 📊 GitHub Stats
