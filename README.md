@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hayohio-bit&color=7C3AED&style=flat-square&label=Profile+Views)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hayohio--bit.github.io-646CFF?style=flat-square&logo=googlechrome&logoColor=white)](https://hayohio-bit.github.io/)
 [![Email](https://img.shields.io/badge/Email-hayohio@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hayohio@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-ssunhy.com-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://ssunhy.com/)
+[![Blog](https://img.shields.io/badge/Blog-ssunhy.com-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://dev.ssunhy.com/)
 
 </div>
 
@@ -27,7 +27,7 @@
 - 🏢 **전직**: BGF리테일 Project개발팀·경영진단 (7년) · 삼성화재 장기상품개발팀 (2년)
 - 🎓 **DevOps 풀스택 부트캠프** 수료 (1,140시간, 2025.10 ~ 2026.04)
 - 🌱 현재 관심사: **Spring Boot 아키텍처**, **AWS 인프라**, **Spring AI 연동**
-- 📝 배운 것은 [블로그](https://ssunhy.com/)에 기록합니다
+- 📝 배운 것은 [블로그](https://dev.ssunhy.com/)에 기록합니다
 
 ---
 
@@ -155,7 +155,7 @@
 **"비즈니스를 이해하는 개발자가 되겠습니다."**
 
 [![Portfolio](https://img.shields.io/badge/포트폴리오_방문하기-hayohio--bit.github.io-646CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hayohio-bit.github.io/)
-[![Blog](https://img.shields.io/badge/블로그_방문하기-ssunhy.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ssunhy.com/)
+[![Blog](https://img.shields.io/badge/블로그_방문하기-ssunhy.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dev.ssunhy.com/)
 [![Email](https://img.shields.io/badge/Email-hayohio@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayohio@gmail.com)
 
 </div>
