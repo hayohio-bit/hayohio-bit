@@ -96,16 +96,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=hayohio-bit&theme=tokyonight&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
