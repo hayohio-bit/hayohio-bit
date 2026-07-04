@@ -83,14 +83,26 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=hayohio-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hayohio-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=hayohio-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=hayohio-bit&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=hayohio-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hayohio-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hayohio-bit&layout=compact&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hayohio-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+</picture>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=hayohio-bit&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hayohio-bit&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hayohio-bit&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" />
+  <img src="https://streak-stats.demolab.com?user=hayohio-bit&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -100,7 +112,13 @@
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hayohio-bit&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" alt="Ashutosh's github activity graph" />
+  </picture>
+</a>
 
 </div>
 
