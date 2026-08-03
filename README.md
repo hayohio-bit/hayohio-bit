@@ -24,7 +24,6 @@
 현재는 백엔드와 프론트엔드를 아우르며, 비즈니스 맥락을 읽고 실제 문제를 구조화해 해결하는 소프트웨어 엔지니어로 일하고 있습니다.
 ```
 
-- 🏢 **Current**: 공공기관 웹 서비스 구축 프로젝트 프론트엔드 엔지니어 (2026.06 ~ 2026.10)
 - 💡 **Core Value**: 단순한 기능 구현을 넘어, 안정적인 비즈니스 로직과 사용자 중심의 환경을 설계합니다.
 - 🌱 **Interest**: **React 기반의 동적 UI**, **Spring Boot 아키텍처**, **대용량 데이터 처리**
 - 📝 배운 것과 기술적 고민은 꾸준히 [블로그](https://dev.ssunhy.com/)에 기록합니다.
@@ -142,10 +141,6 @@
 
 <div align="center">
 
-**"Bridging Business Value with Robust Engineering"**
-
-[![Portfolio](https://img.shields.io/badge/포트폴리오_방문하기-hayohio--bit.github.io-646CFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hayohio-bit.github.io/)
-[![Blog](https://img.shields.io/badge/블로그_방문하기-ssunhy.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dev.ssunhy.com/)
-[![Email](https://img.shields.io/badge/Email-hayohio@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayohio@gmail.com)
+_**"Bridging Business Value with Robust Engineering"**_
 
 </div>
