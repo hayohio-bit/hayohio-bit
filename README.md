@@ -73,13 +73,6 @@
 
 ---
 
-## 📝 Tech Blog Highlights
-
-- 블로그에 작성하신 최근 기술 아티클이나 트러블슈팅 경험을 이곳에 공유해보세요. (예: `React 렌더링 최적화 경험기`, `Spring Security 적용기` 등)
-- 🔗 [기술 블로그 방문하기](https://dev.ssunhy.com/)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
