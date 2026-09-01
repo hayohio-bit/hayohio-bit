@@ -109,9 +109,9 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hayohio-bit&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" alt="Ashutosh's github activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&hide_border=true" />
+    <img src="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" alt="hayohio-bit's github activity graph" />
   </picture>
 </a>
 
