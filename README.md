@@ -48,7 +48,7 @@
 
 ```text
 💻 Engineering Experience
-├── 공공기관 웹 서비스 프로젝트 (2026.06 ~ 2026.10)
+├── 공공기관 웹 서비스 프로젝트 (2026.06 ~ 진행중)
 │   └── Frontend Engineer — React 기반 사용자 인터페이스 개발 및 시스템 연동
 │
 🏢 Domain Expertise (9 years)
