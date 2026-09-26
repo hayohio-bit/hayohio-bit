@@ -17,16 +17,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
-```text
-비즈니스를 이해하는 엔지니어입니다.
-사용자가 실제로 겪는 문제에서 출발해 설계합니다.
-현장에서 쌓은 문제 해결 감각을 코드로 옮기는 중입니다.
-```
-
----
-
 ## 🛠 Tech Stack
 
 **Backend**
@@ -34,7 +24,7 @@
 ![Java](https://img.shields.io/badge/Java_21-20232A?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-20232A?style=flat-square&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-20232A?style=flat-square&logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat-square&logo=databricks&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat-square&logo=mybatis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
@@ -113,12 +103,6 @@
     <img height="200" src="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" alt="hayohio-bit's github activity graph" />
   </picture>
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph-dark.svg?t=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph.svg?t=2" />
-  <img height="120" alt="github contribution pacman" src="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph.svg?t=2" />
-</picture>
 
 </div>
 
