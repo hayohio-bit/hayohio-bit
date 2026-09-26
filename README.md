@@ -22,8 +22,8 @@
 ```text
 비즈니스를 이해하는 엔지니어입니다.
 사용자가 실제로 겪는 문제에서 출발해 설계합니다.
+현장에서 쌓은 문제 해결 감각을 코드로 옮기는 중입니다.
 ```
-
 
 ---
 
@@ -71,7 +71,6 @@
     └── SAP 기반 경비 정산 및 업무 프로세스 지원
 ```
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -96,14 +95,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hayohio-bit&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hayohio-bit&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" />
-  <img src="https://streak-stats.demolab.com?user=hayohio-bit&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" alt="GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=hayohio-bit&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" alt="GitHub Streak" />
 </picture>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <div align="center">
 
@@ -111,22 +110,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&hide_border=true" />
-    <img src="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" alt="hayohio-bit's github activity graph" />
+    <img height="200" src="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" alt="hayohio-bit's github activity graph" />
   </picture>
 </a>
-
-</div>
-
----
-
-## 🕹️ Contribution
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph-dark.svg?t=2" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph.svg?t=2" />
-  <img alt="github contribution pacman" src="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph.svg?t=2" />
+  <img height="120" alt="github contribution pacman" src="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph.svg?t=2" />
 </picture>
 
 </div>
