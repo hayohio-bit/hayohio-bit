@@ -24,7 +24,7 @@
 ![Java](https://img.shields.io/badge/Java_21-20232A?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-20232A?style=flat-square&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-20232A?style=flat-square&logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat-square&logo=mybatis&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
