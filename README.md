@@ -116,17 +116,11 @@
 <div align="center">
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-
   <picture>
-
     <source media="(prefers-color-scheme: dark)" srcset="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" />
-
     <source media="(prefers-color-scheme: light)" srcset="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&hide_border=true" />
-
     <img height="200" src="https://githubactivitygraph.vercel.app/graph?username=hayohio-bit&theme=tokyo-night&hide_border=true" alt="hayohio-bit's github activity graph" />
-
   </picture>
-
 </a>
 
 <picture>
