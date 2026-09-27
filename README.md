@@ -70,6 +70,24 @@
 
 ---
 
+## 📈 Activity
+
+<div align="center">
+
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph-dark.svg?t=2" />
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph.svg?t=2" />
+
+  <img height="120" alt="github contribution pacman" src="https://raw.githubusercontent.com/hayohio-bit/hayohio-bit/output/pacman-contribution-graph.svg?t=2" />
+
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ***"God is in the details."***
