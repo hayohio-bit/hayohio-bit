@@ -21,33 +21,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java_21-20232A?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-20232A?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-20232A?style=flat-square&logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-20232A?style=flat-square)
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-20232A?style=flat-square&logo=javascript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=white)
-
-**Database &amp; Infra**
-
-![MySQL](https://img.shields.io/badge/MySQL_8-20232A?style=flat-square&logo=mysql&logoColor=white)
-![JPA](https://img.shields.io/badge/Spring_Data_JPA-20232A?style=flat-square&logo=spring&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-20232A?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-20232A?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=white)
-
----
-
 ## 💼 Experience &amp; Domain Expertise
 
 ```text
