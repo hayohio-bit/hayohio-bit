@@ -68,20 +68,6 @@
 
 </div>
 
-<div align="center">
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hayohio-bit&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" />
-
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=hayohio-bit&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" />
-
-  <img height="180" src="https://streak-stats.demolab.com?user=hayohio-bit&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko" alt="GitHub Streak" />
-
-</picture>
-
-</div>
-
 ---
 
 ## 📈 Activity
