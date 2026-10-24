@@ -10,9 +10,8 @@
 
 <br/>
 
-<!-- 프로필 뷰 카운터 & 링크 -->
+<!-- 링크 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=hayohio-bit&color=7C3AED&style=flat-square&label=Profile+Views)
 ![Portfolio](https://img.shields.io/badge/Portfolio-hayohio--bit.github.io-646CFF?style=flat-square&logo=googlechrome&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-hayohio@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 ![Blog](https://img.shields.io/badge/Blog-ssunhy.com-FF5722?style=flat-square&logo=blogger&logoColor=white)
