@@ -47,21 +47,21 @@
 
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=hayohio-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=hayohio-bit&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
 
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=hayohio-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="./profile/stats-dark.svg" alt="GitHub Stats" />
 
 </picture>
 
 <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hayohio-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
 
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hayohio-bit&layout=compact&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
 
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hayohio-bit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+  <img height="180" src="./profile/top-langs-dark.svg" alt="Top Langs" />
 
 </picture>
 
