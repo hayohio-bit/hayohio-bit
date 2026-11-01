@@ -48,6 +48,13 @@ jobs:
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: discard error cards
+        run: |
+          for f in $(grep -l "Something went wrong" profile/*.svg); do
+            echo "::warning::$f is an error card; keeping the previous version"
+            git checkout -- "$f"
+          done
+
       - name: commit cards
         run: |
           git config user.name "github-actions[bot]"
